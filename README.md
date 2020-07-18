@@ -1,5 +1,5 @@
 ### Hi There 👋
-My name is Andre Sanches and I'm a Front End Developer passionate about Games, Geek culture and UX/UI
+My name is Andre Sanches and I'm a Front End Developer Student passionate about Games, Geek culture and UX/UI
 
 Here are some information about me:
 - 😄 I really like to learn!
