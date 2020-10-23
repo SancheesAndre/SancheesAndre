@@ -1,6 +1,8 @@
 ### Hi There 👋
 My name is Andre Sanches and I'm a Front End Student passionate about Games, Geek culture and UX/UI
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SancheesAndre)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some information about me:
 - 😄 I really like to learn!
 - 🌱 I’m currently learning JavaScript and Unity Engine
