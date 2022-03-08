@@ -1,5 +1,5 @@
 ### Hi There 👋
-My name is Andre Sanches and I'm a Front End Student passionate about Games, Geek culture and UX/UI
+My name is Andre Sanches and I'm a Front End Student passionate about Games, Geek culture and Programming!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SancheesAndre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
