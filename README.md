@@ -10,4 +10,6 @@ Here are some information about me:
 - 👅 My mother language is Portuguese/BR and I'm also a fluently English speaker
 - ⚡ Technologies: HTML5, CSS3, JavaScript, React Js and MongoDB 
 
-- 📫 How to reach me: Andrecsanches2@gmail.com | ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) https://www.linkedin.com/in/asanxdev/
+- 📫 How to reach me: Andrecsanches2@gmail.com | ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/asanxdev/
+
+
